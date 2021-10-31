@@ -3,4 +3,4 @@
  
  <img src = "scr.PNG">
 
-data collected from https://www.worldometers.info/coronavirus/country/bangladesh/
+data collected from https://www.worldometers.info/coronavirus/
